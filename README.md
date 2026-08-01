@@ -1,4 +1,5 @@
 # 🏥 Health Insurance Cost Prediction
+**Author: Sai Ramya**
 **by: Sai Ramya**
 ML web app to predict health insurance cost using RandomForest.
 **Live Demo:** https://ramya-healthinsuranceapp-byuduzgtrhb2c42bxeayqc.streamlit.app/
